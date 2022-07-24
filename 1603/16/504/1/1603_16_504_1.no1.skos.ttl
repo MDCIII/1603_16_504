@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:504()>
     a skos:Collection ;
@@ -22,7 +21,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "بني ملال - خنيفرة"@ara-Arab ,
         "Beni Mellal Khenifra"@eng-Latn ;
-    wdata:q7200235 "MA001" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -53,7 +51,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "طنجة - تطوان - الحسيمة"@ara-Arab ,
         "Tangier Tetouan Al Hoceima"@eng-Latn ;
-    wdata:q7200235 "MA010" ;
 .
 
 <urn:mdciii:1603:16:504:1:2>
@@ -64,7 +61,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الدار البيضاء - سطات"@ara-Arab ,
         "Casablanca Settat"@eng-Latn ;
-    wdata:q7200235 "MA002" ;
 .
 
 <urn:mdciii:1603:16:504:1:3>
@@ -75,7 +71,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "درعة - تافيلالت"@ara-Arab ,
         "Draa Tafilalet"@eng-Latn ;
-    wdata:q7200235 "MA003" ;
 .
 
 <urn:mdciii:1603:16:504:1:4>
@@ -86,7 +81,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "فاس - مكناس"@ara-Arab ,
         "Fez Meknes"@eng-Latn ;
-    wdata:q7200235 "MA004" ;
 .
 
 <urn:mdciii:1603:16:504:1:5>
@@ -97,7 +91,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "كلميم - واد نون"@ara-Arab ,
         "Guelmim Oued Noun"@eng-Latn ;
-    wdata:q7200235 "MA005" ;
 .
 
 <urn:mdciii:1603:16:504:1:6>
@@ -108,7 +101,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مراكش - آسفي"@ara-Arab ,
         "Marrakech Safi"@eng-Latn ;
-    wdata:q7200235 "MA006" ;
 .
 
 <urn:mdciii:1603:16:504:1:7>
@@ -119,7 +111,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الجهة الشرقية"@ara-Arab ,
         "Oriental"@eng-Latn ;
-    wdata:q7200235 "MA007" ;
 .
 
 <urn:mdciii:1603:16:504:1:8>
@@ -130,7 +121,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الرباط - سلا -القنيطرة"@ara-Arab ,
         "Rabat Sale Kenitra"@eng-Latn ;
-    wdata:q7200235 "MA008" ;
 .
 
 <urn:mdciii:1603:16:504:1:9>
@@ -141,6 +131,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "سوس - ماسة"@ara-Arab ,
         "Souss Massa"@eng-Latn ;
-    wdata:q7200235 "MA009" ;
 .
 

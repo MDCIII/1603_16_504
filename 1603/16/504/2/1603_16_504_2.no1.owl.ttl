@@ -26,7 +26,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Province d Azilal"@eng-Latn ;
-    wdata:q7200235 "MA001001" ;
+    wdata:Q7200235 "MA001001" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -119,7 +119,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Al Hoceima Province"@eng-Latn ;
-    wdata:q7200235 "MA010001" ;
+    wdata:Q7200235 "MA010001" ;
 .
 
 <urn:mdciii:1603:16:504:2:10002>
@@ -133,7 +133,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Chefchaouen Province"@eng-Latn ;
-    wdata:q7200235 "MA010002" ;
+    wdata:Q7200235 "MA010002" ;
 .
 
 <urn:mdciii:1603:16:504:2:10003>
@@ -147,7 +147,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Fahs Anjra Province"@eng-Latn ;
-    wdata:q7200235 "MA010003" ;
+    wdata:Q7200235 "MA010003" ;
 .
 
 <urn:mdciii:1603:16:504:2:10004>
@@ -161,7 +161,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Larache Province"@eng-Latn ;
-    wdata:q7200235 "MA010004" ;
+    wdata:Q7200235 "MA010004" ;
 .
 
 <urn:mdciii:1603:16:504:2:10005>
@@ -175,7 +175,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Prefecture de M diq Fnideq"@eng-Latn ;
-    wdata:q7200235 "MA010005" ;
+    wdata:Q7200235 "MA010005" ;
 .
 
 <urn:mdciii:1603:16:504:2:10006>
@@ -189,7 +189,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Prefecture of Tangier Assilah"@eng-Latn ;
-    wdata:q7200235 "MA010006" ;
+    wdata:Q7200235 "MA010006" ;
 .
 
 <urn:mdciii:1603:16:504:2:10007>
@@ -203,7 +203,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Province d Ouezzane"@eng-Latn ;
-    wdata:q7200235 "MA010007" ;
+    wdata:Q7200235 "MA010007" ;
 .
 
 <urn:mdciii:1603:16:504:2:10008>
@@ -217,7 +217,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Tetouan Province"@eng-Latn ;
-    wdata:q7200235 "MA010008" ;
+    wdata:Q7200235 "MA010008" ;
 .
 
 <urn:mdciii:1603:16:504:2:1002>
@@ -231,7 +231,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Province de Beni Mellal"@eng-Latn ;
-    wdata:q7200235 "MA001002" ;
+    wdata:Q7200235 "MA001002" ;
 .
 
 <urn:mdciii:1603:16:504:2:1003>
@@ -245,7 +245,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Province de Fquih Ben Saleh"@eng-Latn ;
-    wdata:q7200235 "MA001003" ;
+    wdata:Q7200235 "MA001003" ;
 .
 
 <urn:mdciii:1603:16:504:2:1004>
@@ -259,7 +259,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Province de Khenifra"@eng-Latn ;
-    wdata:q7200235 "MA001004" ;
+    wdata:Q7200235 "MA001004" ;
 .
 
 <urn:mdciii:1603:16:504:2:1005>
@@ -273,7 +273,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Province de Khouribga"@eng-Latn ;
-    wdata:q7200235 "MA001005" ;
+    wdata:Q7200235 "MA001005" ;
 .
 
 <urn:mdciii:1603:16:504:2:2001>
@@ -287,7 +287,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Berrechid Province"@eng-Latn ;
-    wdata:q7200235 "MA002001" ;
+    wdata:Q7200235 "MA002001" ;
 .
 
 <urn:mdciii:1603:16:504:2:2002>
@@ -301,7 +301,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "El Jadida Province"@eng-Latn ;
-    wdata:q7200235 "MA002002" ;
+    wdata:Q7200235 "MA002002" ;
 .
 
 <urn:mdciii:1603:16:504:2:2003>
@@ -315,7 +315,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Mediouna Province"@eng-Latn ;
-    wdata:q7200235 "MA002003" ;
+    wdata:Q7200235 "MA002003" ;
 .
 
 <urn:mdciii:1603:16:504:2:2004>
@@ -329,7 +329,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Nouaceur Province"@eng-Latn ;
-    wdata:q7200235 "MA002004" ;
+    wdata:Q7200235 "MA002004" ;
 .
 
 <urn:mdciii:1603:16:504:2:2005>
@@ -343,7 +343,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Prefecture of Casablanca"@eng-Latn ;
-    wdata:q7200235 "MA002005" ;
+    wdata:Q7200235 "MA002005" ;
 .
 
 <urn:mdciii:1603:16:504:2:2006>
@@ -357,7 +357,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Prefecture of Mohammedia"@eng-Latn ;
-    wdata:q7200235 "MA002006" ;
+    wdata:Q7200235 "MA002006" ;
 .
 
 <urn:mdciii:1603:16:504:2:2007>
@@ -371,7 +371,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Province de Benslimane"@eng-Latn ;
-    wdata:q7200235 "MA002007" ;
+    wdata:Q7200235 "MA002007" ;
 .
 
 <urn:mdciii:1603:16:504:2:2008>
@@ -385,7 +385,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Province de Sidi Bennour"@eng-Latn ;
-    wdata:q7200235 "MA002008" ;
+    wdata:Q7200235 "MA002008" ;
 .
 
 <urn:mdciii:1603:16:504:2:2009>
@@ -399,7 +399,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Settat Province"@eng-Latn ;
-    wdata:q7200235 "MA002009" ;
+    wdata:Q7200235 "MA002009" ;
 .
 
 <urn:mdciii:1603:16:504:2:3001>
@@ -413,7 +413,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Ouarzazate Province"@eng-Latn ;
-    wdata:q7200235 "MA003001" ;
+    wdata:Q7200235 "MA003001" ;
 .
 
 <urn:mdciii:1603:16:504:2:3002>
@@ -427,7 +427,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Province d Errachidia"@eng-Latn ;
-    wdata:q7200235 "MA003002" ;
+    wdata:Q7200235 "MA003002" ;
 .
 
 <urn:mdciii:1603:16:504:2:3003>
@@ -441,7 +441,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Province de Midelt"@eng-Latn ;
-    wdata:q7200235 "MA003003" ;
+    wdata:Q7200235 "MA003003" ;
 .
 
 <urn:mdciii:1603:16:504:2:3004>
@@ -455,7 +455,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Province de Tinghir"@eng-Latn ;
-    wdata:q7200235 "MA003004" ;
+    wdata:Q7200235 "MA003004" ;
 .
 
 <urn:mdciii:1603:16:504:2:3005>
@@ -469,7 +469,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Zagora Province"@eng-Latn ;
-    wdata:q7200235 "MA003005" ;
+    wdata:Q7200235 "MA003005" ;
 .
 
 <urn:mdciii:1603:16:504:2:4001>
@@ -483,7 +483,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Prefecture de Fes"@eng-Latn ;
-    wdata:q7200235 "MA004001" ;
+    wdata:Q7200235 "MA004001" ;
 .
 
 <urn:mdciii:1603:16:504:2:4002>
@@ -497,7 +497,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Prefecture de Meknes"@eng-Latn ;
-    wdata:q7200235 "MA004002" ;
+    wdata:Q7200235 "MA004002" ;
 .
 
 <urn:mdciii:1603:16:504:2:4003>
@@ -511,7 +511,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Province d El Hajeb"@eng-Latn ;
-    wdata:q7200235 "MA004003" ;
+    wdata:Q7200235 "MA004003" ;
 .
 
 <urn:mdciii:1603:16:504:2:4004>
@@ -525,7 +525,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Province d Ifrane"@eng-Latn ;
-    wdata:q7200235 "MA004004" ;
+    wdata:Q7200235 "MA004004" ;
 .
 
 <urn:mdciii:1603:16:504:2:4005>
@@ -539,7 +539,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Province de Boulemane"@eng-Latn ;
-    wdata:q7200235 "MA004005" ;
+    wdata:Q7200235 "MA004005" ;
 .
 
 <urn:mdciii:1603:16:504:2:4006>
@@ -553,7 +553,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Province de Moulay Yacoub"@eng-Latn ;
-    wdata:q7200235 "MA004006" ;
+    wdata:Q7200235 "MA004006" ;
 .
 
 <urn:mdciii:1603:16:504:2:4007>
@@ -567,7 +567,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Province de Sefrou"@eng-Latn ;
-    wdata:q7200235 "MA004007" ;
+    wdata:Q7200235 "MA004007" ;
 .
 
 <urn:mdciii:1603:16:504:2:4008>
@@ -581,7 +581,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Province de Taounate"@eng-Latn ;
-    wdata:q7200235 "MA004008" ;
+    wdata:Q7200235 "MA004008" ;
 .
 
 <urn:mdciii:1603:16:504:2:4009>
@@ -595,7 +595,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Province de Taza"@eng-Latn ;
-    wdata:q7200235 "MA004009" ;
+    wdata:Q7200235 "MA004009" ;
 .
 
 <urn:mdciii:1603:16:504:2:5001>
@@ -609,7 +609,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Assa Zag Province"@eng-Latn ;
-    wdata:q7200235 "MA005001" ;
+    wdata:Q7200235 "MA005001" ;
 .
 
 <urn:mdciii:1603:16:504:2:5002>
@@ -623,7 +623,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Guelmim Province"@eng-Latn ;
-    wdata:q7200235 "MA005002" ;
+    wdata:Q7200235 "MA005002" ;
 .
 
 <urn:mdciii:1603:16:504:2:5003>
@@ -637,7 +637,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Province de Tan Tan"@eng-Latn ;
-    wdata:q7200235 "MA005003" ;
+    wdata:Q7200235 "MA005003" ;
 .
 
 <urn:mdciii:1603:16:504:2:5004>
@@ -651,7 +651,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Sidi Ifni Province"@eng-Latn ;
-    wdata:q7200235 "MA005004" ;
+    wdata:Q7200235 "MA005004" ;
 .
 
 <urn:mdciii:1603:16:504:2:6001>
@@ -665,7 +665,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Al Haouz Province"@eng-Latn ;
-    wdata:q7200235 "MA006001" ;
+    wdata:Q7200235 "MA006001" ;
 .
 
 <urn:mdciii:1603:16:504:2:6002>
@@ -679,7 +679,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Chichaoua Province"@eng-Latn ;
-    wdata:q7200235 "MA006002" ;
+    wdata:Q7200235 "MA006002" ;
 .
 
 <urn:mdciii:1603:16:504:2:6003>
@@ -693,7 +693,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Essaouira Province"@eng-Latn ;
-    wdata:q7200235 "MA006003" ;
+    wdata:Q7200235 "MA006003" ;
 .
 
 <urn:mdciii:1603:16:504:2:6004>
@@ -707,7 +707,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Prefecture de Marrakech"@eng-Latn ;
-    wdata:q7200235 "MA006004" ;
+    wdata:Q7200235 "MA006004" ;
 .
 
 <urn:mdciii:1603:16:504:2:6005>
@@ -721,7 +721,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Province d El Kelaat Es Sraghna"@eng-Latn ;
-    wdata:q7200235 "MA006005" ;
+    wdata:Q7200235 "MA006005" ;
 .
 
 <urn:mdciii:1603:16:504:2:6006>
@@ -735,7 +735,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Province de Safi"@eng-Latn ;
-    wdata:q7200235 "MA006006" ;
+    wdata:Q7200235 "MA006006" ;
 .
 
 <urn:mdciii:1603:16:504:2:6007>
@@ -749,7 +749,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Province de Youssoufia"@eng-Latn ;
-    wdata:q7200235 "MA006007" ;
+    wdata:Q7200235 "MA006007" ;
 .
 
 <urn:mdciii:1603:16:504:2:6008>
@@ -763,7 +763,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Rhamna Province"@eng-Latn ;
-    wdata:q7200235 "MA006008" ;
+    wdata:Q7200235 "MA006008" ;
 .
 
 <urn:mdciii:1603:16:504:2:7001>
@@ -777,7 +777,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Prefecture d Oujda Angad"@eng-Latn ;
-    wdata:q7200235 "MA007001" ;
+    wdata:Q7200235 "MA007001" ;
 .
 
 <urn:mdciii:1603:16:504:2:7002>
@@ -791,7 +791,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Province de Berkane"@eng-Latn ;
-    wdata:q7200235 "MA007002" ;
+    wdata:Q7200235 "MA007002" ;
 .
 
 <urn:mdciii:1603:16:504:2:7003>
@@ -805,7 +805,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Province de Driouch"@eng-Latn ;
-    wdata:q7200235 "MA007003" ;
+    wdata:Q7200235 "MA007003" ;
 .
 
 <urn:mdciii:1603:16:504:2:7004>
@@ -819,7 +819,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Province de Figuig"@eng-Latn ;
-    wdata:q7200235 "MA007004" ;
+    wdata:Q7200235 "MA007004" ;
 .
 
 <urn:mdciii:1603:16:504:2:7005>
@@ -833,7 +833,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Province de Guercif"@eng-Latn ;
-    wdata:q7200235 "MA007005" ;
+    wdata:Q7200235 "MA007005" ;
 .
 
 <urn:mdciii:1603:16:504:2:7006>
@@ -847,7 +847,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Province de Jerada"@eng-Latn ;
-    wdata:q7200235 "MA007006" ;
+    wdata:Q7200235 "MA007006" ;
 .
 
 <urn:mdciii:1603:16:504:2:7007>
@@ -861,7 +861,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Province de Nador"@eng-Latn ;
-    wdata:q7200235 "MA007007" ;
+    wdata:Q7200235 "MA007007" ;
 .
 
 <urn:mdciii:1603:16:504:2:7008>
@@ -875,7 +875,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Province de Taourirt"@eng-Latn ;
-    wdata:q7200235 "MA007008" ;
+    wdata:Q7200235 "MA007008" ;
 .
 
 <urn:mdciii:1603:16:504:2:8001>
@@ -889,7 +889,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Prefecture de Skhirate Temara"@eng-Latn ;
-    wdata:q7200235 "MA008001" ;
+    wdata:Q7200235 "MA008001" ;
 .
 
 <urn:mdciii:1603:16:504:2:8002>
@@ -903,7 +903,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Prefecture of Rabat"@eng-Latn ;
-    wdata:q7200235 "MA008002" ;
+    wdata:Q7200235 "MA008002" ;
 .
 
 <urn:mdciii:1603:16:504:2:8003>
@@ -917,7 +917,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Prefecture of Sale"@eng-Latn ;
-    wdata:q7200235 "MA008003" ;
+    wdata:Q7200235 "MA008003" ;
 .
 
 <urn:mdciii:1603:16:504:2:8004>
@@ -931,7 +931,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Province de Kenitra"@eng-Latn ;
-    wdata:q7200235 "MA008004" ;
+    wdata:Q7200235 "MA008004" ;
 .
 
 <urn:mdciii:1603:16:504:2:8005>
@@ -945,7 +945,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Province de Khemisset"@eng-Latn ;
-    wdata:q7200235 "MA008005" ;
+    wdata:Q7200235 "MA008005" ;
 .
 
 <urn:mdciii:1603:16:504:2:8006>
@@ -959,7 +959,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Province de Sidi Kacem"@eng-Latn ;
-    wdata:q7200235 "MA008006" ;
+    wdata:Q7200235 "MA008006" ;
 .
 
 <urn:mdciii:1603:16:504:2:8007>
@@ -973,7 +973,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Province de Sidi Slimane"@eng-Latn ;
-    wdata:q7200235 "MA008007" ;
+    wdata:Q7200235 "MA008007" ;
 .
 
 <urn:mdciii:1603:16:504:2:9001>
@@ -987,7 +987,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Agadir Ida Outanane Prefecture"@eng-Latn ;
-    wdata:q7200235 "MA009001" ;
+    wdata:Q7200235 "MA009001" ;
 .
 
 <urn:mdciii:1603:16:504:2:9002>
@@ -1001,7 +1001,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Chtouka Ait Baha Province"@eng-Latn ;
-    wdata:q7200235 "MA009002" ;
+    wdata:Q7200235 "MA009002" ;
 .
 
 <urn:mdciii:1603:16:504:2:9003>
@@ -1015,7 +1015,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Inezgane Ait Melloul Prefecture"@eng-Latn ;
-    wdata:q7200235 "MA009003" ;
+    wdata:Q7200235 "MA009003" ;
 .
 
 <urn:mdciii:1603:16:504:2:9004>
@@ -1029,7 +1029,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Taroudant Province"@eng-Latn ;
-    wdata:q7200235 "MA009004" ;
+    wdata:Q7200235 "MA009004" ;
 .
 
 <urn:mdciii:1603:16:504:2:9005>
@@ -1043,7 +1043,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Tata Province"@eng-Latn ;
-    wdata:q7200235 "MA009005" ;
+    wdata:Q7200235 "MA009005" ;
 .
 
 <urn:mdciii:1603:16:504:2:9006>
@@ -1057,6 +1057,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         ""@ara-Arab ,
         "Tiznit Province"@eng-Latn ;
-    wdata:q7200235 "MA009006" ;
+    wdata:Q7200235 "MA009006" ;
 .
 
